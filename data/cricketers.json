@@ -1,0 +1,467 @@
+{
+  "team": "India",
+  "format": "T20I",
+  "tournaments": "ICC Men's T20 World Cup 2007-2024",
+  "lastUpdated": "2026-02",
+  "players": {
+    "batsmen": [
+      {
+        "name": "Virat Kohli",
+        "slug": "virat-kohli",
+        "matches": 125,
+        "runs": 4188,
+        "average": 48.7,
+        "strikeRate": 137.05,
+        "highestScore": 122
+      },
+      {
+        "name": "Rohit Sharma",
+        "slug": "rohit-sharma",
+        "matches": 159,
+        "runs": 4231,
+        "average": 32.0,
+        "strikeRate": 140.9,
+        "highestScore": 121
+      },
+      {
+        "name": "MS Dhoni",
+        "slug": "ms-dhoni",
+        "matches": 98,
+        "runs": 1617,
+        "average": 37.6,
+        "strikeRate": 126.1,
+        "highestScore": 56
+      },
+      {
+        "name": "Gautam Gambhir",
+        "slug": "gautam-gambhir",
+        "matches": 37,
+        "runs": 932,
+        "average": 27.4,
+        "strikeRate": 119.0,
+        "highestScore": 75
+      },
+      {
+        "name": "Virender Sehwag",
+        "slug": "virender-sehwag",
+        "matches": 19,
+        "runs": 394,
+        "average": 21.9,
+        "strikeRate": 145.4,
+        "highestScore": 68
+      },
+      {
+        "name": "Suresh Raina",
+        "slug": "suresh-raina",
+        "matches": 78,
+        "runs": 1605,
+        "average": 29.2,
+        "strikeRate": 134.8,
+        "highestScore": 101
+      },
+      {
+        "name": "Shikhar Dhawan",
+        "slug": "shikhar-dhawan",
+        "matches": 68,
+        "runs": 1759,
+        "average": 27.9,
+        "strikeRate": 126.4,
+        "highestScore": 92
+      },
+      {
+        "name": "KL Rahul",
+        "slug": "kl-rahul",
+        "matches": 72,
+        "runs": 2265,
+        "average": 37.7,
+        "strikeRate": 139.1,
+        "highestScore": 110
+      },
+      {
+        "name": "Suryakumar Yadav",
+        "slug": "suryakumar-yadav",
+        "matches": 74,
+        "runs": 2544,
+        "average": 42.4,
+        "strikeRate": 167.5,
+        "highestScore": 117
+      },
+      {
+        "name": "Rishabh Pant",
+        "slug": "rishabh-pant",
+        "matches": 76,
+        "runs": 1209,
+        "average": 23.2,
+        "strikeRate": 127.3,
+        "highestScore": 65
+      },
+      {
+        "name": "Dinesh Karthik",
+        "slug": "dinesh-karthik",
+        "matches": 60,
+        "runs": 686,
+        "average": 26.4,
+        "strikeRate": 142.6,
+        "highestScore": 55
+      },
+      {
+        "name": "Yashasvi Jaiswal",
+        "slug": "yashasvi-jaiswal",
+        "matches": 23,
+        "runs": 723,
+        "average": 36.1,
+        "strikeRate": 164.3,
+        "highestScore": 100
+      },
+      {
+        "name": "Ishan Kishan",
+        "slug": "ishan-kishan",
+        "matches": 32,
+        "runs": 796,
+        "average": 25.7,
+        "strikeRate": 124.4,
+        "highestScore": 89
+      },
+      {
+        "name": "Sanju Samson",
+        "slug": "sanju-samson",
+        "matches": 30,
+        "runs": 444,
+        "average": 19.3,
+        "strikeRate": 133.5,
+        "highestScore": 77
+      },
+      {
+        "name": "Robin Uthappa",
+        "slug": "robin-uthappa",
+        "matches": 13,
+        "runs": 249,
+        "average": 24.9,
+        "strikeRate": 118.0,
+        "highestScore": 50
+      },
+      {
+        "name": "Ajinkya Rahane",
+        "slug": "ajinkya-rahane",
+        "matches": 20,
+        "runs": 375,
+        "average": 20.8,
+        "strikeRate": 113.3,
+        "highestScore": 61
+      },
+      {
+        "name": "Deepak Hooda",
+        "slug": "deepak-hooda",
+        "matches": 21,
+        "runs": 368,
+        "average": 30.7,
+        "strikeRate": 147.2,
+        "highestScore": 104
+      },
+      {
+        "name": "Manish Pandey",
+        "slug": "manish-pandey",
+        "matches": 39,
+        "runs": 709,
+        "average": 44.3,
+        "strikeRate": 126.1,
+        "highestScore": 79
+      },
+      {
+        "name": "Murali Vijay",
+        "slug": "murali-vijay",
+        "matches": 9,
+        "runs": 169,
+        "average": 18.8,
+        "strikeRate": 109.7,
+        "highestScore": 48
+      },
+      {
+        "name": "Manoj Tiwary",
+        "slug": "manoj-tiwary",
+        "matches": 3,
+        "runs": 15,
+        "average": 15.0,
+        "strikeRate": 88.2,
+        "highestScore": 15
+      }
+    ],
+    "bowlers": [
+      {
+        "name": "Jasprit Bumrah",
+        "slug": "jasprit-bumrah",
+        "matches": 84,
+        "wickets": 107,
+        "economy": 6.54,
+        "bestBowling": "3/7"
+      },
+      {
+        "name": "Bhuvneshwar Kumar",
+        "slug": "bhuvneshwar-kumar",
+        "matches": 87,
+        "wickets": 90,
+        "economy": 6.96,
+        "bestBowling": "5/4"
+      },
+      {
+        "name": "Arshdeep Singh",
+        "slug": "arshdeep-singh",
+        "matches": 76,
+        "wickets": 118,
+        "economy": 8.54,
+        "bestBowling": "4/9"
+      },
+      {
+        "name": "Mohammed Shami",
+        "slug": "mohammed-shami",
+        "matches": 23,
+        "wickets": 24,
+        "economy": 8.94,
+        "bestBowling": "3/15"
+      },
+      {
+        "name": "Mohammed Siraj",
+        "slug": "mohammed-siraj",
+        "matches": 36,
+        "wickets": 49,
+        "economy": 7.28,
+        "bestBowling": "3/18"
+      },
+      {
+        "name": "Zaheer Khan",
+        "slug": "zaheer-khan",
+        "matches": 17,
+        "wickets": 17,
+        "economy": 7.63,
+        "bestBowling": "4/19"
+      },
+      {
+        "name": "RP Singh",
+        "slug": "rp-singh",
+        "matches": 10,
+        "wickets": 15,
+        "economy": 6.81,
+        "bestBowling": "4/13"
+      },
+      {
+        "name": "Ashish Nehra",
+        "slug": "ashish-nehra",
+        "matches": 27,
+        "wickets": 34,
+        "economy": 7.73,
+        "bestBowling": "3/19"
+      },
+      {
+        "name": "S Sreesanth",
+        "slug": "s-sreesanth",
+        "matches": 10,
+        "wickets": 7,
+        "economy": 8.47,
+        "bestBowling": "2/12"
+      },
+      {
+        "name": "Harshal Patel",
+        "slug": "harshal-patel",
+        "matches": 25,
+        "wickets": 29,
+        "economy": 9.18,
+        "bestBowling": "4/25"
+      },
+      {
+        "name": "Joginder Sharma",
+        "slug": "joginder-sharma",
+        "matches": 4,
+        "wickets": 4,
+        "economy": 9.52,
+        "bestBowling": "2/20"
+      },
+      {
+        "name": "Praveen Kumar",
+        "slug": "praveen-kumar",
+        "matches": 10,
+        "wickets": 8,
+        "economy": 7.42,
+        "bestBowling": "2/14"
+      },
+      {
+        "name": "Mohit Sharma",
+        "slug": "mohit-sharma",
+        "matches": 8,
+        "wickets": 6,
+        "economy": 8.04,
+        "bestBowling": "2/22"
+      },
+      {
+        "name": "Vinay Kumar",
+        "slug": "vinay-kumar",
+        "matches": 9,
+        "wickets": 10,
+        "economy": 7.84,
+        "bestBowling": "3/24"
+      },
+      {
+        "name": "Varun Aaron",
+        "slug": "varun-aaron",
+        "matches": 9,
+        "wickets": 4,
+        "economy": 8.32,
+        "bestBowling": "2/42"
+      }
+    ],
+    "allrounders": [
+      {
+        "name": "Hardik Pandya",
+        "slug": "hardik-pandya",
+        "matches": 126,
+        "runs": 2027,
+        "wickets": 103,
+        "strikeRate": 143.7,
+        "economy": 8.3
+      },
+      {
+        "name": "Yuvraj Singh",
+        "slug": "yuvraj-singh",
+        "matches": 58,
+        "runs": 1177,
+        "wickets": 28,
+        "strikeRate": 136.4,
+        "economy": 7.06
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "slug": "ravindra-jadeja",
+        "matches": 74,
+        "runs": 515,
+        "wickets": 54,
+        "strikeRate": 127.2,
+        "economy": 7.13
+      },
+      {
+        "name": "Ravichandran Ashwin",
+        "slug": "ravichandran-ashwin",
+        "matches": 65,
+        "runs": 184,
+        "wickets": 72,
+        "strikeRate": 115.0,
+        "economy": 6.91
+      },
+      {
+        "name": "Axar Patel",
+        "slug": "axar-patel",
+        "matches": 86,
+        "runs": 686,
+        "wickets": 83,
+        "strikeRate": 152.2,
+        "economy": 7.25
+      },
+      {
+        "name": "Harbhajan Singh",
+        "slug": "harbhajan-singh",
+        "matches": 28,
+        "runs": 108,
+        "wickets": 25,
+        "strikeRate": 124.1,
+        "economy": 6.2
+      },
+      {
+        "name": "Irfan Pathan",
+        "slug": "irfan-pathan",
+        "matches": 24,
+        "runs": 172,
+        "wickets": 28,
+        "strikeRate": 119.4,
+        "economy": 8.02
+      },
+      {
+        "name": "Yusuf Pathan",
+        "slug": "yusuf-pathan",
+        "matches": 22,
+        "runs": 236,
+        "wickets": 13,
+        "strikeRate": 146.6,
+        "economy": 8.61
+      },
+      {
+        "name": "Kuldeep Yadav",
+        "slug": "kuldeep-yadav",
+        "matches": 40,
+        "runs": 48,
+        "wickets": 94,
+        "strikeRate": 67.6,
+        "economy": 6.74
+      },
+      {
+        "name": "Shivam Dube",
+        "slug": "shivam-dube",
+        "matches": 55,
+        "runs": 756,
+        "wickets": 26,
+        "strikeRate": 150.0,
+        "economy": 8.3
+      },
+      {
+        "name": "Shardul Thakur",
+        "slug": "shardul-thakur",
+        "matches": 25,
+        "runs": 69,
+        "wickets": 33,
+        "strikeRate": 181.6,
+        "economy": 9.15
+      },
+      {
+        "name": "Amit Mishra",
+        "slug": "amit-mishra",
+        "matches": 10,
+        "runs": 0,
+        "wickets": 16,
+        "strikeRate": 0.0,
+        "economy": 6.31
+      },
+      {
+        "name": "Piyush Chawla",
+        "slug": "piyush-chawla",
+        "matches": 7,
+        "runs": 0,
+        "wickets": 4,
+        "strikeRate": 0.0,
+        "economy": 6.56
+      },
+      {
+        "name": "Stuart Binny",
+        "slug": "stuart-binny",
+        "matches": 3,
+        "runs": 35,
+        "wickets": 1,
+        "strikeRate": 134.6,
+        "economy": 6.75
+      },
+      {
+        "name": "Varun Chakravarthy",
+        "slug": "varun-chakravarthy",
+        "matches": 6,
+        "runs": 0,
+        "wickets": 2,
+        "strikeRate": 0.0,
+        "economy": 5.86
+      },
+      {
+        "name": "Rahul Chahar",
+        "slug": "rahul-chahar",
+        "matches": 6,
+        "runs": 5,
+        "wickets": 7,
+        "strikeRate": 83.3,
+        "economy": 7.59
+      },
+      {
+        "name": "Pawan Negi",
+        "slug": "pawan-negi",
+        "matches": 1,
+        "runs": 0,
+        "wickets": 1,
+        "strikeRate": 0.0,
+        "economy": 5.33
+      }
+    ]
+  }
+}
